@@ -1,0 +1,61 @@
+h1{
+	color: red;
+	text-align: center;
+	background-color: palegreen;
+}
+
+.container{
+	
+	text-align: center;
+	
+}
+
+.formating a{
+	padding: 30px;
+	background-color:blue;
+	display:inline-block;
+	font-size: 30px;
+	text-decoration: none;
+	border-radius: 40px;
+	color: white;
+}
+
+.selector a{
+	padding: 30px;
+	background-color: lightgreen;
+	display: inline-block;
+	font-size: 30px;
+	text-decoration: none;
+	border-radius: 40px;
+	color: white;
+	margin-top: 10px;
+}
+
+.html-ref a{
+	padding: 30px;
+	background-color:saddlebrown;
+	display: inline-block;
+	font-size: 30px;
+	text-decoration: none;
+	border-radius: 40px;
+	color: white;
+	margin-top: 10px;
+}
+
+/*css selector reference style*/
+
+.intro{
+	font-size: 30px;
+	color: red;
+}
+
+#myname{
+	font-size: 50px;
+	color: blue;
+}
+
+h4, h5{
+	font-size: 30px;
+	color: green;
+	font-weight: bold;
+}
